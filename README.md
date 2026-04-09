@@ -53,7 +53,7 @@ All three Kumiho plugins share the same Neo4j + Redis backend, `CognitiveMemory`
 Install from GitHub:
 
 ```bash
-claude plugin add github:kumihoclouds/kumiho-claude
+claude plugin add github:KumihoIO/kumiho-claude
 ```
 
 ### Local development
